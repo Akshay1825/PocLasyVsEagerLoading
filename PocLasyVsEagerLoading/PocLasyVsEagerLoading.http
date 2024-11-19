@@ -1,0 +1,6 @@
+@PocLasyVsEagerLoading_HostAddress = http://localhost:5288
+
+GET {{PocLasyVsEagerLoading_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
